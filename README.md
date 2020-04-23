@@ -78,6 +78,26 @@
 
 [最短距离](2018/min_distance.cpp)
 
+### 2019
+
+[选球问题](2019/choose_ball.cpp)
+
+[爬楼梯游戏](2019/climbing_stairs.cpp)
+
+[小镇购物](2019/shopping_3.cpp)
+
+[模拟出入栈游戏](2019/stack_simulation.cpp)
+
+[graph's connected components(弱化版)](2019/graph_connected_components_weak.cpp)
+
+#### TODO
+
+[小镇购物(空间超限)](2019/shopping_1.cpp)
+
+[小镇购物(时间超限%12)](2019/shopping_2.cpp) 
+
+[graph's connected components(时间超限)](2019/graph_connected_components.cpp)
+
 ## 注意事项
 
 1. 算法格式错误可能是因为在有多个输出情况下，答案要求一一及时输出，而不是统一输出。见2014年破译密码1。
