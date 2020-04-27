@@ -90,6 +90,18 @@
 
 [graph's connected components(弱化版)](2019/graph_connected_components_weak.cpp)
 
+### 2019_summer
+
+[地砖问题](2019_summer/floor_bricks.cpp)
+
+[十六进制转换](2019_summer/hexadecimal.cpp)
+
+[最小花费](2019_summer/least_cost.cpp)
+
+[回文串](2019_summer/palindrome_string.cpp)
+
+[有序合并](2019_summer/seq_merge.cpp)
+
 #### TODO
 
 [小镇购物(空间超限)](2019/shopping_1.cpp)
