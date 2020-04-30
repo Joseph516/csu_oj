@@ -90,6 +90,14 @@
 
 [graph's connected components(弱化版)](2019/graph_connected_components_weak.cpp)
 
+#### TODO
+
+[小镇购物(空间超限)](2019/shopping_1.cpp)
+
+[小镇购物(时间超限%12)](2019/shopping_2.cpp) 
+
+[graph's connected components(时间超限)](2019/graph_connected_components.cpp)
+
 ### 2019_summer
 
 [地砖问题](2019_summer/floor_bricks.cpp)
@@ -102,13 +110,17 @@
 
 [有序合并](2019_summer/seq_merge.cpp)
 
-#### TODO
+### 2020_summer
 
-[小镇购物(空间超限)](2019/shopping_1.cpp)
+[最小价值和](2020_summer/least_cost.cpp)
 
-[小镇购物(时间超限%12)](2019/shopping_2.cpp) 
+[最大容量和](2020_summer/max_volume_sum.cpp)
 
-[graph's connected components(时间超限)](2019/graph_connected_components.cpp)
+[最小特征值之和](2020_summer/minium_eigenvalue_sum.cpp)
+
+[缺失的彩虹](2020_summer/missing_rainbow.cpp)
+
+[PIPI上学路](2020_summer/way_to_school.cpp)
 
 ## 注意事项
 
